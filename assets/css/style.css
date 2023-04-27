@@ -1,0 +1,200 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Cabin', sans-serif;
+}
+
+.cuerpoPagina{
+
+    margin: auto;
+    
+}
+
+nav {
+    background-color: #373A3C;
+}
+
+
+.logo-nav{
+
+    color: white;
+    font-size: 40px;
+    font-family: 'Lobster', cursive;;
+}
+
+.boton-menu{
+
+    border-color: white;
+}
+
+.borde-header {
+
+  
+    border-top-color: #000000;
+    border-bottom-color: #000000;
+    border-style: solid ;
+    border-width: 2px 0;
+    width: 350px;
+
+    
+}
+
+header {
+
+    margin: 30px 0 ;
+   
+}
+
+header img{
+
+    width: 350px;
+  
+
+
+}
+
+header h2{
+
+    font-weight: bold;
+    text-align: center;
+    width: 300px;
+    
+}
+
+
+.header2 {
+
+    width: 100%;
+}
+
+.header2 img {
+     width: 500px;
+}
+
+
+.subHeader h3{
+
+     text-align: center;
+     font-weight: bold;
+     font-size: 18px;
+}
+
+.subHeader div{
+
+    text-align: center;
+}
+
+.subHeader button {
+
+    border-color: #DDDDDD;
+}
+
+.img-carousel{
+
+    width: 200px;
+
+}
+
+.cuerpoFotos{
+
+    margin: auto;
+    width: 898px;
+}
+
+.btn-slide-color{
+
+    color: #000000;
+}
+.containerSeccion p {
+
+    line-height: 30px;
+}
+
+.card {
+
+    height: 370px;
+}
+
+.recetasRelacionadas h2{
+
+    text-align: center;
+    vertical-align: middle;
+}
+
+.borderTop{
+
+    border-top-color: #000000;
+   
+    border-style: solid ;
+    border-top-width: 2px ;
+    
+
+}
+
+
+footer {
+
+    height: 500px;
+    background-color: #DC3545;
+}
+
+.cuerpoFooter {
+
+    width: 80%;
+    padding-top: 20%;
+    color: white;
+    text-align: center;
+   
+}
+
+.miniLogo {
+
+    color: white;
+    font-family: Lobster, Regular;
+    font-size: 15px;
+}
+.subFooter {
+
+    background-color: #373A3C;
+    height: 60px;
+}
+
+.subFooter h3{
+
+    color: white;
+    font-family: Lobster, Regular;
+    font-size: 27px;
+    text-align: center;
+}
+
+.btnEmpezar{
+
+    width: 200px;
+}
+
+.container-slider{
+
+    height: 170px;
+}
+
+.img-carousel{
+
+    width: 200px;
+
+}
+
+@media screen and (max-width: 768px) {
+    
+    .btnEmpezar{
+
+        width: 100% ;
+    }
+}
+
